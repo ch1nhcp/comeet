@@ -1,5 +1,7 @@
 import React from "react";
 import "@/assets/styles/globals.css";
+import Navbar from "@/components/NavBar";
+import Providers from "./Providers";
 
 export const metadata = {
   title: "Comeet",
@@ -11,7 +13,10 @@ const MainLayout = ({ children }) => {
   return (
     <html lang="en">
       <body>
-        <>{children}</>
+        <Providers>
+          <Navbar />
+          <main>{children}</main>
+        </Providers>
       </body>
     </html>
   );

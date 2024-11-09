@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Bún Chả",
+    "restaurant": "Quán Bún Chả Hàng Mành",
+    "address": "1 Hàng Mành, Hoàn Kiếm, Hà Nội",
+    "price_range": "50,000 VND - 100,000 VND",
+    "images": [
+      "https://example.com/bun-cha1.jpg",
+      "https://example.com/bun-cha2.jpg",
+      "https://example.com/bun-cha3.jpg"
+    ],
+    "video_review": "https://www.tiktok.com/@foodie/video/123456789",
+    "hashtags": ["bun cha", "hanoi", "vietnamese cuisine"]
+  },
+  {
+    "id": 2,
+    "name": "Phở",
+    "restaurant": "Quán Phở Gia Truyền",
+    "address": "34 Hàng Điếu, Hoàn Kiếm, Hà Nội",
+    "price_range": "40,000 VND - 80,000 VND",
+    "images": [
+      "https://example.com/pho1.jpg",
+      "https://example.com/pho2.jpg",
+      "https://example.com/pho3.jpg"
+    ],
+    "video_review": "https://www.tiktok.com/@foodie/video/987654321",
+    "hashtags": ["pho", "vietnamese cuisine"]
+  },
+  {
+    "id": 3,
+    "name": "Bánh Mì",
+    "restaurant": "Bánh Mì Phượng",
+    "address": "2B Phan Châu Trinh, Hội An, Quảng Nam",
+    "price_range": "20,000 VND - 40,000 VND",
+    "images": [
+      "https://example.com/banh-mi1.jpg",
+      "https://example.com/banh-mi2.jpg",
+      "https://example.com/banh-mi3.jpg"
+    ],
+    "video_review": "https://www.tiktok.com/@foodie/video/abcdef123",
+    "hashtags": ["banh mi", "hoi an", "vietnamese cuisine"]
+  }
+]
